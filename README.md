@@ -13,7 +13,7 @@ Building AI-powered systems using LLMs, RAG, NLP, and scalable backend architect
     <img src="https://img.shields.io/badge/LinkedIn-Adel%20Ahmed-blue?style=for-the-badge&logo=linkedin" />
   </a>
 
-  <a href="YOUR_GITHUB">
+  <a href="https://github.com/adelahmed2021/adelahmed2021">
     <img src="https://img.shields.io/badge/GitHub-Portfolio-black?style=for-the-badge&logo=github" />
   </a>
 

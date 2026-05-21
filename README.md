@@ -9,7 +9,7 @@ Building AI-powered systems using LLMs, RAG, NLP, and scalable backend architect
 </p>
 
 <p align="center">
-  <a href="YOUR_LINKEDIN">
+  <a href="https://www.linkedin.com/in/adel-gad-939306320">
     <img src="https://img.shields.io/badge/LinkedIn-Adel%20Ahmed-blue?style=for-the-badge&logo=linkedin" />
   </a>
 
@@ -17,7 +17,7 @@ Building AI-powered systems using LLMs, RAG, NLP, and scalable backend architect
     <img src="https://img.shields.io/badge/GitHub-Portfolio-black?style=for-the-badge&logo=github" />
   </a>
 
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:adelahmed12332100@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>

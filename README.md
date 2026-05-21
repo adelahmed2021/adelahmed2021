@@ -29,41 +29,64 @@ Building AI-powered systems using LLMs, RAG, NLP, and scalable backend architect
 ```python
 class AdelAhmedGad:
 
-    role = [
-        "Machine Learning Engineer",
-        "NLP Engineer",
-        "Backend Developer",
-        "AI Instructor"
-    ]
-
-    current_focus = [
-        "LLMs",
-        "Generative AI",
-        "RAG Systems",
-        "Fine-Tuning",
-        "AI Agents",
-        "Backend APIs"
-    ]
-
-    tech_stack = {
-        "AI/ML": [
-            "PyTorch",
-            "TensorFlow",
-            "Scikit-learn",
-            "Transformers",
-            "LangChain"
-        ],
-
-        "Backend": [
-            "FastAPI",
-            "Spring Boot",
-            "REST APIs",
-            "SQLAlchemy",
-            "SQL"
+    def __init__(self):
+        self.role = [
+            "Machine Learning Engineer",
+            "NLP Engineer",
+            "Backend Developer",
+            "AI Instructor"
         ]
-    }
 
-    fun_fact = "I love building AI systems that solve real problems 🚀"
+        self.specialization = [
+            "Large Language Models (LLMs)",
+            "Natural Language Processing (NLP)",
+            "Generative AI",
+            "Retrieval-Augmented Generation (RAG)",
+            "AI Agents"
+        ]
+
+        self.tech_stack = {
+
+            "AI_ML": [
+                "PyTorch",
+                "TensorFlow",
+                "Scikit-learn",
+                "Transformers",
+                "LangChain",
+                "LangGraph",
+                "CrewAI",
+                "Fine-Tuning",
+                "Prompt Engineering"
+            ],
+
+            "Backend": [
+                "FastAPI",
+                "Spring Boot",
+                "REST APIs",
+                "SQLAlchemy",
+                "SQL",
+                "System Design"
+            ],
+
+            "Languages": [
+                "Python",
+                "Java",
+                "JavaScript",
+                "C",
+                "C++"
+            ]
+        }
+
+        self.current_focus = [
+            "LLM Applications",
+            "RAG Pipelines",
+            "Scalable AI Systems",
+            "Backend APIs"
+        ]
+
+        self.fun_fact = (
+            "I enjoy turning AI ideas into real-world products 🚀"
+        )
 ```
 
 ---
